@@ -50,3 +50,7 @@ var orderedValuesNewLength = orderedValues.length
 var randomThingsArray = genericNumberArray.concat(colors)
 
 var updatedOrders = orderQueue.concat([{takeOut: 'Fries'}, {takeOut:'Chicken Nuggets'}])
+
+var sentence = scrambledWords.join(' ')
+
+var myFruits = fruitCollection.join(' + ')
