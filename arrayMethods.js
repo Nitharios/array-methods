@@ -42,3 +42,7 @@ gemBox.splice(6, 4)
 upToTen.splice(2, 0, 3, 4, 5, 6, 7, 8)
 
 brownOnly.splice(1, 5, 'brown', 'brown', 'brown')
+
+orderedValues.unshift(1, 2, 3)
+
+var orderedValuesNewLength = orderedValues.length
